@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="repository.mso" name="[COLOR limegreen][B]Mr T[/B][/COLOR] Repository" version="1.0.0" provider-name="MSO Media Team">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+        </requires>
+        <extension point="xbmc.addon.repository" name="MrT Repository">
+            <dir minversion="18.0.0">
+                <info compressed="false">https://raw.githubusercontent.com/infoluka02/kodi-builds/main/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/infoluka02/kodi-builds/main/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/infoluka02/kodi-builds/main/repo/</datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="vi">Kho tiện ích giải trí và khôi phục bản build độc quyền</summary>
+            <description lang="vi">Hệ thống phân phối chính thức các công cụ tối ưu rạp phim thương hiệu.</description>
+            <platform>all</platform>
+        </assets>
+    </addon>
+
+    <addon id="plugin.program.openwizard" name="[COLOR limegreen][B]Mr T[/B][/COLOR] Wizard" version="1" provider-name="MrT">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+            <import addon="script.module.six" />
+            <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
+            <import addon="script.speedtester" optional="true" version="1.1.2" />
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="default.py">
+            <provides>executable</provides>
+        </extension>
+        <extension point="xbmc.service" library="startup.py" start="startup" />
+        <extension point="xbmc.addon.metadata">
+            <summary lang="vi">[COLOR limegreen][B]Mr T[/B][/COLOR] Wizard</summary>
+            <description lang="vi">Hệ thống khôi phục bản build rạp phim VIP siêu tối giản.</description>
+            <platform>all</platform>
+            <reuselanguageinvoker>false</reuselanguageinvoker>
+        </news>
+    </addon>
+</addons>
