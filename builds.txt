@@ -1,5 +1,5 @@
 id="plugin.program.openwizard"
-version="2.0.7" 
+version="2.7.3" 
 zip="http://"
 
 name="Custom skin Arctic.Zephyr.2 v2"
