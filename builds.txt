@@ -3,7 +3,7 @@ version="2.0.7"
 zip="http://"
 
 name="Custom skin Arctic.Zephyr.2 v2"
-version="11.37.3"
+version="1.0.0"
 url="https://raw.githubusercontent.com/infoluka02/kodi-builds/refs/heads/main/v2.zip"
 minor="http://"
 gui="https://raw.githubusercontent.com/infoluka02/kodi-builds/refs/heads/main/v2_guisettings.zip"
