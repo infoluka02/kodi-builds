@@ -140,4 +140,14 @@
 <description>MEC - Debrid and Free. 4-June-2026</description>
 </build>
 
+<build>
+<name>MrT- Elementum</name>
+<version>1.1</version>
+<kodi>K21</kodi>
+<url>https://link.fsel.edu.vn/kodi/elementum-chef-v1.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>elementum - trakt - subdl</description>
+</build>
+  
 </builds>
