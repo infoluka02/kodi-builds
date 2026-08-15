@@ -1,0 +1,143 @@
+<builds>
+
+<build>
+<name>Diggz AIO - FREE OR DEBRID</name>
+<version>3.2</version>
+<kodi>K22</kodi>
+<url>https://diggz1.me/Builds/AIO_v3.2_76_11pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenon.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
+<description>Diggz AIO. Updated 7/6/26</description>  
+</build>
+
+<build>
+<name>Diggz AIO - FREE OR DEBRID - Server 2</name>
+<version>3.2</version>
+<kodi>K22</kodi>
+<url>https://archive.org/download/aio-v-3.2-76-11pm/AIO_v3.2_76_11pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenon.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
+<description>Diggz AIO. Updated 7/6/26</description>  
+</build>
+
+<build>
+<name>Diggz AIO - FREE OR DEBRID</name>
+<version>3.2</version>
+<kodi>K21</kodi>
+<url>https://diggz1.me/Builds/AIO_v3.2_76_11pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenon.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
+<description>Diggz AIO. Updated 7/6/26</description>  
+</build>
+
+<build>
+<name>Diggz AIO - FREE OR DEBRID - Server 2</name>
+<version>3.2</version>
+<kodi>K21</kodi>
+<url>https://archive.org/download/aio-v-3.2-76-11pm/AIO_v3.2_76_11pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenon.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
+<description>Diggz AIO. Updated 7/6/26</description>  
+</build>
+
+<build>
+<name>dMo - Simply Estuary</name>
+<version>1.6</version>
+<kodi>K21</kodi>
+<url>https://diggz1.me/Builds/dMo.Simply.Estuary.v1.6.zip</url>
+<icon>https://diggz1.me/Images/SimplyEstuaryIcon.png</icon>
+<fanart>https://diggz1.me/Images/SimplyEstuaryBanner.png</fanart>
+<description>Simply Arctic - Debrid only. 30-July-2026</description>
+</build>
+
+<build>
+<name>dMo - Simply Estuary -Server 2</name>
+<version>1.6</version>
+<kodi>K21</kodi>
+<url>https://archive.org/download/dMo.Simply.Estuary.v1.6/dMo.Simply.Estuary.v1.6.zip</url>
+<icon>https://diggz1.me/Images/SimplyEstuaryIcon.png</icon>
+<fanart>https://diggz1.me/Images/SimplyEstuaryBanner.png</fanart>
+<description>Simply Arctic - Debrid only. 30-July-2026</description>
+</build>
+
+<build>
+<name>MX Build</name>
+<version>1.7</version>
+<kodi>K21</kodi>
+<url>https://diggz1.me/Builds/MX.Build.v1.7.zip</url>
+<icon>https://diggz1.me/Images/MX.Build.jpg</icon>
+<fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
+<description>MX Build - Debrid and Free. 16-June-2026</description>
+</build>
+
+<build>
+<name>MX Build -Server 2</name>
+<version>1.7</version>
+<kodi>K21</kodi>
+<url>https://archive.org/download/mx.-build.v-1.7/MX.Build.v1.7.zip</url>
+<icon>https://diggz1.me/Images/MX.Build.jpg</icon>
+<fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
+<description>MX Build - Debrid and Free. 16-June-2026</description>
+</build>
+
+<build>
+<name>MX Build</name>
+<version>1.7</version>
+<kodi>K22</kodi>
+<url>https://diggz1.me/Builds/MX.Build.v1.7.zip</url>
+<icon>https://diggz1.me/Images/MX.Build.jpg</icon>
+<fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
+<description>MX Build - Debrid and Free. 16-June-2026</description>
+</build>
+
+<build>
+<name>MX Build -Server 2</name>
+<version>1.7</version>
+<kodi>K22</kodi>
+<url>https://archive.org/download/mx.-build.v-1.7/MX.Build.v1.7.zip</url>
+<icon>https://diggz1.me/Images/MX.Build.jpg</icon>
+<fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
+<description>MX Build - Debrid and Free. 16-June-2026</description>
+</build>
+
+<build>
+<name>cg - MEC</name>
+<version>7.2</version>
+<kodi>K21</kodi>
+<url>https://diggz1.me/Builds/cg.MEC.v7.2a.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 4-June-2026</description>
+</build>
+
+<build>
+<name>cg - MEC -Server 2</name>
+<version>7.2</version>
+<kodi>K21</kodi>
+<url>https://archive.org/download/cg.MEC.v7.2a/cg.MEC.v7.2a.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 4-June-2026</description>
+</build>
+
+<build>
+<name>cg - MEC</name>
+<version>7.2</version>
+<kodi>K22</kodi>
+<url>https://diggz1.me/Builds/cg.MEC.v7.2a.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 4-June-2026</description>
+</build>
+
+<build>
+<name>cg - MEC -Server 2</name>
+<version>7.2</version>
+<kodi>K22</kodi>
+<url>https://archive.org/download/cg.MEC.v7.2a/cg.MEC.v7.2a.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 4-June-2026</description>
+</build>
+
+</builds>
