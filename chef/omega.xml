@@ -145,8 +145,8 @@
 <version>1.0</version>
 <kodi>K21</kodi>
 <url>https://github.com/infoluka02/kodi-builds/releases/download/elementum/elementum-chef-v1.1.zip</url>
-<icon>hhttps://link.fsel.edu.vn/uploads/users/403158d35bd188b18d7c0de85fd58219.png</icon>
-<fanart>hhttps://link.fsel.edu.vn/uploads/users/403158d35bd188b18d7c0de85fd58219.png</fanart>
+<icon>https://link.fsel.edu.vn/kodi/icon.png</icon>
+<fanart>https://link.fsel.edu.vn/kodi/fanart.jpg</fanart>
 <description>elementum - trakt - subdl</description>
 </build>
 
@@ -155,8 +155,8 @@
 <version>1.0</version>
 <kodi>K21</kodi>
 <url>https://github.com/infoluka02/kodi-builds/releases/download/zephyr/zephyr.jellycon.zip</url>
-<icon>https://link.fsel.edu.vn/uploads/users/403158d35bd188b18d7c0de85fd58219.png</icon>
-<fanart>https://link.fsel.edu.vn/uploads/users/403158d35bd188b18d7c0de85fd58219.png</fanart>
+<icon>https://link.fsel.edu.vn/kodi/icon.png</icon>
+<fanart>https://link.fsel.edu.vn/kodi/fanart.jpg</fanart>
 <description>jellycon - zephyr theme</description>
 </build>
 
