@@ -160,4 +160,14 @@
 <description>jellycon - zephyr theme</description>
 </build>
 
+<build>
+<name>MrT- Elementum - add list</name>
+<version>1.2</version>
+<kodi>K21</kodi>
+<url>https://github.com/infoluka02/kodi-builds/releases/download/elementum/elementum+list.v1.2.zip</url>
+<icon>https://link.fsel.edu.vn/kodi/icon.png</icon>
+<fanart>https://link.fsel.edu.vn/kodi/fanart.jpg</fanart>
+<description>elementum - trakt - subdl</description>
+</build>
+
 </builds>
