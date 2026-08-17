@@ -152,16 +152,6 @@
 
 <build>
 <name>MrT- Elementum</name>
-<version>1.2</version>
-<kodi>K21</kodi>
-<url>https://github.com/infoluka02/kodi-builds/releases/download/elementum/elementum+list.v1.2.zip</url>
-<icon>https://link.fsel.edu.vn/kodi/icon.png</icon>
-<fanart>https://link.fsel.edu.vn/kodi/fanart.jpg</fanart>
-<description>elementum - trakt - subdl -  add list movies, shows</description>
-</build>
-
-<build>
-<name>MrT- Elementum</name>
 <version>1.3</version>
 <kodi>K21</kodi>
 <url>https://github.com/infoluka02/kodi-builds/releases/download/elementum/elementum.v1.3.zip</url>
