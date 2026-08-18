@@ -193,6 +193,26 @@
 
 <build>
 <name>MrT- Elementum - GIT</name>
+<version>1.0.0</version>
+<kodi>K21</kodi>
+<url>https://github.com/infoluka02/kodi-builds/releases/download/elementum/elementum-chef-v1.zip</url>
+<icon>https://link.fsel.edu.vn/kodi/icon.png</icon>
+<fanart>https://link.fsel.edu.vn/kodi/fanart.jpg</fanart>
+<description>setting chuẩn</description>
+</build>
+
+<build>
+<name>MrT- Elementum - GIT</name>
+<version>1.1</version>
+<kodi>K21</kodi>
+<url>https://github.com/infoluka02/kodi-builds/releases/download/elementum/elementum-chef-v1.1.zip</url>
+<icon>https://link.fsel.edu.vn/kodi/icon.png</icon>
+<fanart>https://link.fsel.edu.vn/kodi/fanart.jpg</fanart>
+<description>setting chuẩn</description>
+</build>
+
+<build>
+<name>MrT- Elementum - GIT</name>
 <version>1.1.1</version>
 <kodi>K21</kodi>
 <url>https://github.com/infoluka02/kodi-builds/releases/download/elementum/elementum-chef-v1.1.1.zip</url>
@@ -201,7 +221,7 @@
 <description>setting chuẩn</description>
 </build>
 
-build>
+<build>
 <name>MrT- Elementum - GIT</name>
 <version>1.1.2</version>
 <kodi>K21</kodi>
