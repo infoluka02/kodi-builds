@@ -270,4 +270,14 @@
 <description>jellycon - zephyr theme</description>
 </build>
 
+<build>
+<name>MrT- zephyr elementum- GIT</name>
+<version>1.0</version>
+<kodi>K21</kodi>
+<url>https://github.com/infoluka02/kodi-builds/releases/download/zephyr/zephyr+elementum.zip</url>
+<icon>https://raw.githubusercontent.com/infoluka02/kodi-builds/refs/heads/main/icon.png</icon>
+<fanart>https://raw.githubusercontent.com/infoluka02/kodi-builds/refs/heads/main/fanart.jpg</fanart>
+<description>jellycon - zephyr theme</description>
+</build>
+
 </builds>
